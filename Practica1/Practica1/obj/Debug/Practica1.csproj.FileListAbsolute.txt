@@ -1,0 +1,12 @@
+C:\Users\Nacho\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe.config
+C:\Users\Nacho\source\repos\Practica1\Practica1\bin\Debug\Practica1.exe
+C:\Users\Nacho\source\repos\Practica1\Practica1\bin\Debug\Practica1.pdb
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.csprojAssemblyReference.cache
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.Properties.Resources.resources
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.GenerateResource.cache
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.exe
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.pdb
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.Login.resources
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.Menu.resources
+C:\Users\Nacho\source\repos\Practica1\Practica1\obj\Debug\Practica1.mostrarPersonas.resources
